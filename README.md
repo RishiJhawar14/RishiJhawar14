@@ -1,7 +1,7 @@
 <h1 align="center">Hey Visitor! I'm Rishi Jhawar 👋 </h1>
-<h3 align="center">🚀 2nd Year Student | Curiosity Driven |  | Tech Enthusiast ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 2nd Year Student | Curiosity Driven | Tech Enthusiast ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "30%" align="right" alt="PIC" height="260px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
