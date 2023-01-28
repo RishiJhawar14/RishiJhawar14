@@ -6,7 +6,7 @@
 
   - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Mechanical Engineering at NIT, Rourkela.
-  - 💼 &nbsp; I’m currently working on my Computer Vision and NLP.
+  - 💼 &nbsp; I’m currently developing my software skills in many domains.
   - 🌱 &nbsp; Learning more or less about everything.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
