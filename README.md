@@ -15,7 +15,7 @@
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=790b7611c906c68ccf582ddea587f943931e9a538a52f1df&rid=giphy.gif&ct=s" width="50"><img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="50">
+<img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="50"><img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.webp" width="50"><img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" width="50">
   <p>
 </div> 
 
